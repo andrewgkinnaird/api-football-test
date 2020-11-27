@@ -1,0 +1,27 @@
+{
+  "name": "api-football-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-api.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nedb": "^1.8.0",
+    "node": "^15.2.1",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewgkinnaird/api-football-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewgkinnaird/api-football-test/issues"
+  },
+  "homepage": "https://github.com/andrewgkinnaird/api-football-test#readme"
+}
